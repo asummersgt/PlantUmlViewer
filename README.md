@@ -1,4 +1,5 @@
 # PlantUML Viewer
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/39f314ec126142c590005e05c7b4d078)](https://app.codacy.com/gh/asummersgt/PlantUmlViewer?utm_source=github.com&utm_medium=referral&utm_content=asummersgt/PlantUmlViewer&utm_campaign=Badge_Grade_Settings)
 [![License](https://img.shields.io/github/license/Fruchtzwerg94/PlantUmlViewer)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Fruchtzwerg94/PlantUmlViewer/total)](https://tooomm.github.io/github-release-stats/?username=Fruchtzwerg94&repository=PlantUmlViewer)
 [![Release](https://img.shields.io/github/v/release/Fruchtzwerg94/PlantUmlViewer)](https://github.com/Fruchtzwerg94/PlantUmlViewer/releases)
